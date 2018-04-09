@@ -5,7 +5,7 @@ An example of an simple servlets application working with the
   
 `WildFly` 
 
-togethet with
+together with
 
 `MySQL`
 
