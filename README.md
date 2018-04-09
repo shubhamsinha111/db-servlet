@@ -1,5 +1,5 @@
 # db-servlet
-An example of an simple servlets application working with the
+An example of a simple servlets application working with the
 
 <del>JBoss Web Server 3.1 Apache Tomcat 8 (non existign now)
   
